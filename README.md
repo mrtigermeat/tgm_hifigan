@@ -13,4 +13,5 @@ You may not:
 
 - Claim this vocoder as your own
 - Distribute under a different name
+- Generate revenue using this vocoder in any way, as it breaks the CC-BY-NC 4.0 license agreement.
 
