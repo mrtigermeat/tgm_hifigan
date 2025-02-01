@@ -15,3 +15,4 @@ You may not:
 - Distribute under a different name
 - Generate revenue using this vocoder in any way, as it breaks the CC-BY-NC 4.0 license agreement.
 
+Data credits and amount breakdowns can be found [here](https://docs.google.com/spreadsheets/d/1U3u71SlK1UhxluJYGBtMbGrxTkzAXzbpBeL-7cFM6hs/edit?usp=sharing).
